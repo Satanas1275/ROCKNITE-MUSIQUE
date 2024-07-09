@@ -1,23 +1,23 @@
 [
     { 
-        "titre": "C'est nul", 
-        "artiste": "Homer Simpson", 
-        "fichier": "1.mp3",
-        "duree": "0:01",
+        "titre": "Son un", 
+        "artiste": "Artiste un", 
+        "fichier": "Son 1.mp3",
+        "duree": "4:04",
         "image": "png/1.png"
     },
     { 
-        "titre": "Song Two", 
-        "artiste": "Artist Two", 
-        "fichier": "SongTwo.mp3", 
-        "duree": "2:29", 
+        "titre": "Son deux", 
+        "artiste": "Artiste deux", 
+        "fichier": "Son 2.mp3", 
+        "duree": "4:04", 
         "image": "png/2.png"
     },
     { 
-        "titre": "Song Three", 
-        "artiste": "Artist Three", 
-        "fichier": "SongThree.mp3", 
-        "duree": "3:12", 
+        "titre": "Son trois", 
+        "artiste": "Artiste trois", 
+        "fichier": "Son 3.mp3", 
+        "duree": "4:04", 
         "image": "png/3.png"
     }
 ]
