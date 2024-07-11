@@ -77,10 +77,6 @@ Vous pouvez également héberger le site en ligne en utilisant Python 3 et Serve
 
 Ngrok vous fournira une URL publique que vous pourrez utiliser pour accéder à votre site web.
 
-## Contribuer
-
-Les contributions sont les bienvenues ! Veuillez lire le [guide de contribution](CONTRIBUTING.md) pour plus de détails sur notre code de conduite et le processus de soumission des pull requests.
-
 ## Licence
 
 Ce projet est sous licence MIT - voir le fichier [LICENSE](LICENSE) pour plus de détails.
