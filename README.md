@@ -77,6 +77,9 @@ Vous pouvez également héberger le site en ligne en utilisant Python 3 et Serve
 
 Ngrok vous fournira une URL publique que vous pourrez utiliser pour accéder à votre site web.
 
+## Faire un Don
+Si vous aimez ce projet et souhaitez soutenir son développement, vous pouvez faire un don via [Patreon](patreon.com/ROCKNITE_MUSIQUE). Votre soutien est grandement apprécié et nous aide à continuer à améliorer ROCKNITE-MUSIQUE.
+
 ## Licence
 
 Ce projet est sous licence MIT - voir le fichier [LICENSE](LICENSE) pour plus de détails.
